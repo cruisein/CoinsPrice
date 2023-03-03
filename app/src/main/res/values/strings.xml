@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="price_change">Price change</string>
+    <string name="price_change_percent">Price Change Percent</string>
+    <string name="open_price">Open price</string>
+    <string name="high_price">High price</string>
+    <string name="low_price">Low price</string>
+    <string name="volume">Volume</string>
+</resources>
